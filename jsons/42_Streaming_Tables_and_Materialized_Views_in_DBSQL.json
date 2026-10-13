@@ -2,14 +2,14 @@
 	  "config": {
 		"version": "1.0",
 		"exam_name": "<div style=\"color: #3527F5; font-weight: bold; padding: 10px;\">42 Streaming Tables and Materialized Views in DBSQL</div>",
-		"link_explanation_base_url": "https://github.com/progressivepull/Databricks-Ease_With_Data/tree/main/markdown_explains/42_Streaming_Tables_and_Materialized_Views_in_DBSQL",
+		"link_explanation_base_url": "https://github.com/progressivepull/Databricks-Ease_With_Data-Zero_to_Hero/tree/main/markdown_explains/42_Streaming_Tables_and_Materialized_Views_in_DBSQL",
 		"link_explanation_folder_name": "EXPLANATION_42_*",
 		"link_explanation_file_name": "EXPLANATION_42_*",
-		"link_answer_base_url": "https://github.com/progressivepull/Databricks-Ease_With_Data/blob/main/markdown_answers/42_Streaming_Tables_and_Materialized_Views_in_DBSQL",
+		"link_answer_base_url": "https://github.com/progressivepull/Databricks-Ease_With_Data-Zero_to_Hero/blob/main/markdown_answers/42_Streaming_Tables_and_Materialized_Views_in_DBSQL",
 		"link_answer_folder_name": "ANSWER_42_*",
 		"link_answer_file_name": "ANSWER_42_*",
-		"link_terms": "https://github.com/progressivepull/Databricks-Ease_With_Data/blob/main/markdown_terms/terms",
-		"readme_content": "https://github.com/progressivepull/Databricks-Ease_With_Data/blob/main/README",
+		"link_terms": "https://github.com/progressivepull/Databricks-Ease_With_Data-Zero_to_Hero/blob/main/markdown_terms/terms",
+		"readme_content": "https://github.com/progressivepull/Databricks-Ease_With_Data-Zero_to_Hero/blob/main/README",
 		"shuffle_questions": true,
 		"shuffle_options": true,
 		"time_limit_minutes": 60
