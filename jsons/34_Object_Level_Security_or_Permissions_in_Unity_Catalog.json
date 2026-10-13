@@ -2,14 +2,14 @@
 	  "config": {
 		"version": "1.0",
 		"exam_name": "<div style=\"color: #3527F5; font-weight: bold; padding: 10px;\">34 Object Level Security or Permissions in Unity Catalog</div>",
-		"link_explanation_base_url": "https://github.com/progressivepull/Databricks-Ease_With_Data/tree/main/markdown_explains/34_Object_Level_Security_or_Permissions_in_Unity_Catalog",
+		"link_explanation_base_url": "https://github.com/progressivepull/Databricks-Ease_With_Data-Zero_to_Hero/tree/main/markdown_explains/34_Object_Level_Security_or_Permissions_in_Unity_Catalog",
 		"link_explanation_folder_name": "EXPLANATION_34_*",
 		"link_explanation_file_name": "EXPLANATION_34_*",
-		"link_answer_base_url": "https://github.com/progressivepull/Databricks-Ease_With_Data/blob/main/markdown_answers/34_Object_Level_Security_or_Permissions_in_Unity_Catalog",
+		"link_answer_base_url": "https://github.com/progressivepull/Databricks-Ease_With_Data-Zero_to_Hero/blob/main/markdown_answers/34_Object_Level_Security_or_Permissions_in_Unity_Catalog",
 		"link_answer_folder_name": "ANSWER_34_*",
 		"link_answer_file_name": "ANSWER_34_*",
-		"link_terms": "https://github.com/progressivepull/Databricks-Ease_With_Data/blob/main/markdown_terms/terms",
-		"readme_content": "https://github.com/progressivepull/Databricks-Ease_With_Data/blob/main/README",
+		"link_terms": "https://github.com/progressivepull/Databricks-Ease_With_Data-Zero_to_Hero/blob/main/markdown_terms/terms",
+		"readme_content": "https://github.com/progressivepull/Databricks-Ease_With_Data-Zero_to_Hero/blob/main/README",
 		"shuffle_questions": true,
 		"shuffle_options": true,
 		"time_limit_minutes": 60
